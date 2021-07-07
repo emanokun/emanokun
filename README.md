@@ -18,8 +18,9 @@ A **Cyber security** ***newbie*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 currently struggling with BCompSci Cyber Security.
-- 🌱 My interest is in threat intelligence, blue team works, reverse engineering, and vulnerability hunting (still studying tho don't hek me senpai).
+- 👨🏽‍💻 Currently struggling with BCompSci Cyber Security.
+- 🌱 My interest: defensive operation, threat intelligence, blue team works, reverse engineering,
+-    and vulnhunting (still studying tho don't hek me senpai).
 - 🤔 My interest lies in Security Operation Center (SOC) and currently completing my internship as a security analyst.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [binsaleh.aiman@gmail.com](mailto:binsaleh.aiman@gmail.com).
